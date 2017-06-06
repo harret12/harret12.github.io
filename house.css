@@ -20,3 +20,22 @@
  
 
 }
+
+#squaretwo{
+  	width: 100px;
+	height: 100px;
+	background: white;
+  position:absolute;
+  left: 260px;
+  bottom: 280px;
+}
+
+#squarethree{
+  	width: 100px;
+	height: 100px;
+	background: white;
+  position:absolute;
+  left: 600px;
+  bottom: 280px;
+}
+
