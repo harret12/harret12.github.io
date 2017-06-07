@@ -65,3 +65,13 @@
   left: 260px;
   bottom: 320px;
 }
+
+#linetwo{
+   background: black;
+  height: 10px;
+    width: 100px;
+  position: absolute;
+  left: 600px;
+  bottom: 320px; 
+}
+
