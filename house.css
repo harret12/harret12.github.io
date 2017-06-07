@@ -75,3 +75,13 @@
   bottom: 320px; 
 }
 
+#door{
+   	width: 70px;
+	height: 150px;
+	background: 	#A0522D;
+  position:absolute;
+  left: 450px;
+  bottom: 150px; 
+}
+
+
