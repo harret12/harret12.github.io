@@ -58,11 +58,10 @@
 }
 
 #line{
-    background: black;
-  content: "";
+  background: black;
   height: 10px;
-  left: 260px;
+    width: 100px;
   position: absolute;
-  top: 360px;
-  width: 100px;
+  left: 260px;
+  bottom: 320px;
 }
